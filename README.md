@@ -23,7 +23,7 @@ Designed for libraries, protocols, or mathematical software.
 These logos are built on a strict **10x10(flexible) paintable grid**. This ensures:
 * **Pixel Perfection:** They downscale to 16px or 32px favicons without blur.
 * **Reproducibility:** You can recreate these in code, CSS grids, or even physical LED matrices easily.
-* **Repo to use**: 
+* **Repo to use**: ![PixelGen](https://github.com/Heli9x/PixelJet-PixelGen-01)
 
 ## ⚖️ License
 Dedicated to the Public Domain under [CC0 1.0 Universal](LICENSE). 
