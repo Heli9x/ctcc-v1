@@ -10,12 +10,12 @@ A collection of 10x10 grid-based logos designed for open-source hardware, softwa
 ### 🟠 NanoGate
 **Vibe:** Industrial / Hardware / Power
 Designed for low-level systems, firmware, or hardware modules.
-![NanoGate](NanoGate/NanoGate.png)
+![NanoGate](cc0/NanoGate/NanoGate.png)
 
 ### 🔵 Parity
 **Vibe:** Logic / Networking / Data
 Designed for libraries, protocols, or mathematical software.
-![Parity](Parity/Parity.png)
+![Parity](cc0/Parity/Parity.png)
 
 ---
 
